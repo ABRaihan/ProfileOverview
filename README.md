@@ -42,7 +42,7 @@
 
 
 ### <ins>GitHub Statistics:</ins>
-<pre class="statistics"><img alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=ABRaihan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />   <img alt="Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABRaihan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
+<pre class="statistics">
 <img alt="Statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=ABRaihan&theme=dark&hide_border=false" />
 </pre>
 
