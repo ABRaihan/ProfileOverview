@@ -42,9 +42,10 @@
 
 
 ### <ins>GitHub Statistics:</ins>
-<pre class="statistics">
+
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abraihan&show_icons=true&locale=en&layout=compact" alt="abraihan" /></div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abraihan&show_icons=true&locale=en" alt="abraihan" /></p>
 <img alt="Statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=ABRaihan&theme=dark&hide_border=false" />
-</pre>
 
 
 
